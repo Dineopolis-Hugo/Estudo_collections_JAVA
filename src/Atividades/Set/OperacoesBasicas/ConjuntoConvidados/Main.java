@@ -1,4 +1,4 @@
-package Atividades.Set.OperacoesBasicas;
+package Atividades.Set.OperacoesBasicas.ConjuntoConvidados;
 
 public class Main {
     public static void main(String[] args) {
